@@ -21,4 +21,5 @@ The court cases includes:
 - Antwon Michael Rose II
 
 <br>
-<img src="https://github.com/acheamponge/HTGAWM/tree/master/wordcloud/trayvon_wordcloud.png" align="middle" height="400" width="400">
+
+![Image](/wordcloud/trayvon_wordcloud.png)
