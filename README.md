@@ -22,32 +22,32 @@ The court cases includes:
 
 
 # Word Cloud of Court Documents
-![Trayvon](/wordcloud/trayvon_wordcloud.png)
+![Trayvon](/pdf/1.png)
 
-![Philando](/wordcloud/philando_wordcloud.png)
+![Philando](/pdf/2.png)
 
-![Walter](/wordcloud/walter_wordcloud.png)
+![Walter](/pdf/3.png)
 
-![Crutcher](/wordcloud/crutcher_wordcloud.png)
+![Crutcher](/pdf/4.png)
 
-![Tamir](/wordcloud/tamir_wordcloud.png)
+![Tamir](/pdf/5.png)
 
-![Sandra](/wordcloud/sandra_wordcloud.png)
+![Sandra](/pdf/6.png)
 
-![Samuel](/wordcloud/samuel_wordcloud.png)
+![Samuel](/pdf/7.png)
 
-![Oscar](/wordcloud/oscar_wordcloud.png)
+![Oscar](/pdf/8.png)
 
-![Dean](/wordcloud/dean_wordcloud.png)
+![Dean](/pdf/9.png)
 
-![Eric](/wordcloud/eric_wordcloud.png)
+![Eric](/pdf/10.png)
 
-![Christopher](/wordcloud/christopher_wordcloud.png)
+![Christopher](/pdf/11.png)
 
-![Chinedu](/wordcloud/chinedu_wordcloud.png)
+![Chinedu](/pdf/12.png)
 
-![Botham](/wordcloud/botham_wordcloud.png)
+![Botham](/pdf/13.png)
 
-![Atatiana](/wordcloud/at_wordcloud.png)
+![Atatiana](/pdf/14.png)
 
-![Antwon](/wordcloud/antwon_wordcloud.png)
+![Antwon](/pdf/15.png)
