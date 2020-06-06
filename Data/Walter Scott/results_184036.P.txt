@@ -1,0 +1,656 @@
+PUBLISHED
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+
+No. 18-4036
+
+UNITED STATES OF AMERICA,
+Plaintiff — Appellee,
+
+Vv.
+
+MICHAEL SLAGER,
+
+Defendant — Appellant.
+
+Appeal from the United States District Court for the District of South Carolina, at
+Charleston. David C. Norton, District Judge. (2:16-cr-00378-DCN-1)
+
+Argued: November 1, 2018 Decided: January 8, 2019
+
+Before WILKINSON, WYNN, and DIAZ, Circuit Judges.
+
+Affirmed by published opinion. Judge Wynn wrote the opinion, in which Judge Wilkinson
+and Judge Diaz joined.
+
+ARGUED: Elizabeth Anne Franklin-Best, BLUME, FRANKLIN-BEST & YOUNG,
+LLC, Columbia, South Carolina, for Appellant. Elizabeth Parr Hecker, UNITED STATES
+DEPARTMENT OF JUSTICE, Washington, D.C., for Appellee. ON BRIEF: John M.
+Gore, Acting Assistant Attorney General, Tovah R. Calderon, Appellate Section, Civil
+Rights Division, UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C., for
+Appellee.
+WYNN, Circuit Judge:
+
+Defendant Michael Slager (“Defendant”), a former officer with the North
+Charleston Police Department, admitted that he “willfully” shot and killed Walter Scott
+(“Scott”), when Scott was unarmed and fleeing arrest. Defendant further admitted that his
+decision to shoot Scott was “objectively unreasonable.” Based on those admissions,
+Defendant pleaded guilty to depriving Scott of his civil rights under color of law.
+
+The district court sentenced Defendant to a 240-month term of imprisonment.
+Before this Court, Defendant argues that the district court reversibly erred in setting his
+sentence by: (1) using second-degree murder as the sentencing cross-reference for his
+offense rather than voluntary manslaughter, and (2) applying a two-level enhancement for
+obstruction of justice. Finding no reversible error, we affirm Defendant’s sentence.
+
+I
+A.
+
+In May 2016, a federal grand jury in the District of South Carolina returned an
+indictment alleging, among other things, that Defendant, “while acting under color of law
+as an officer with the North Charleston Police Department, shot [and killed] Walter Scott
+without legal justification, willfully depriving him of the right . . . to be free from the use
+of unreasonable force by a law enforcement officer.” J.A. 13. In the meantime, Defendant
+was tried in state court on one count of murder. That trial resulted in a hung jury and
+mistrial.
+
+Thereafter, Defendant entered into a global plea agreement with the United States
+
+and the State of South Carolina. Under that agreement, in exchange for Defendant’s guilty
+plea in federal court to one count of depriving Scott of his civil rights under color of law,
+the United States agreed to drop the remaining counts of the indictment! and agreed to
+recommend a three-level reduction in the applicable sentencing level for acceptance of
+responsibility. Additionally, South Carolina agreed not to retry Defendant and dismissed
+the murder charge against him.
+
+Some of the undisputed facts that formed the basis for Defendant’s plea includes
+evidence showing that on the morning of April 4, 2015, while on duty, Defendant stopped
+Scott’s vehicle after observing that his center brake light was not working. After the stop,
+Scott fled on foot and Defendant chased him. During the chase, Defendant shot his taser
+probes twice, hitting and bringing Scott down with the second shot. See United States v.
+Slager, No. 2:16-CR-00378-DCN, 2018 WL 445497, at *2 (D.S.C. Jan. 16, 2018).
+
+At some point thereafter, Scott got up and fled. While Scott was unarmed and
+running away, Defendant drew his department-issued firearm and fired eight shots at Scott,
+five of which struck Scott in the back. Scott died on the scene from these wounds. Jd.
+
+A bystander witnessed and testified about the incident. The bystander also filmed
+parts of the incident. The bystander’s testimony and video of the incident directly
+contradicted Defendant’s initial account of the incident. In conformance with the global
+guilty plea agreement, Defendant admitted that he “used deadly force even though it was
+
+objectively unreasonable under the circumstances.” Jd. And, Defendant acknowledged
+
+1 The federal indictment charged Defendant with: depriving Scott of his civil rights
+under color of law, in violation of 18 U.S.C. § 242; using a weapon during the commission
+of a crime of violence, in violation of 18 U.S.C. § 924(c); and obstruction of justice, in
+violation of 18 U.S.C. § 1512(b)(3).
+that “his actions were done willfully, that is he acted voluntarily and intentionally and with
+specific intent to do something that the law forbids.” Jd.
+B.
+
+Defendant’s sentencing hearing began on December 4, 2017, and lasted four days.
+Because Defendant pleaded guilty to depriving Scott of his civil rights under color of law,
+the district court was required during sentencing to cross-reference the offense underlying
+the deprivation. See U.S.S.G. § 2H1.1(a)(1). The government contended that the proper
+cross-reference was second-degree murder because Defendant was acting with malice
+aforethought when he shot Scott. In contrast, Defendant argued that the proper cross-
+reference was voluntary manslaughter because he was provoked by Scott and was thus not
+acting with malice.
+
+Although most of the facts were undisputed at Defendant’s sentencing hearing, the
+government and Defendant disagreed as to what occurred after Scott fell to the ground, but
+before Scott got up and ran away from Defendant.
+
+i.
+
+The government’s version of events is based primarily on the only third-party
+eyewitness to the shooting, Feidin Santana. Santana recounted the shooting during a South
+Carolina Law Enforcement Division (“SLED”) interview, and during Defendant’s state
+and federal proceedings. Each time, Santana provided a consistent account of the shooting.
+
+While traveling to work on the morning of the shooting, Santana saw Scott running
+from Defendant. Santana followed, but briefly lost sight of Scott and Defendant. When
+
+Santana next saw them, Scott was facing down, and Defendant was on top of Scott and
+“trying to control” him. J.A. 971. Santana testified that it sounded like Scott was “being
+hurt” and he heard something “electric.” J.A. 972. According to Santana, Defendant
+punched Scott in the back, but Scott never flipped over. Santana did not see Scott punch
+back. Nor did Santana see Scott grab the taser and charge toward Defendant. Indeed,
+Santana never saw Scott holding the taser. Rather, according to Santana, Scott did not
+seem to want to “hurt” Defendant but was “just trying to leave.” J.A. 974. At some point,
+Scott shot up “aggressively,” Santana testified. J.A.975. By this, Santana meant that Scott
+was “determined to. . . just leave.” Jd. When Scott broke free and began to run, Defendant
+shot him. Defendant then handcuffed Scott and checked his pulse but did not treat him.
+
+Santana also recorded a portion of the encounter with his cell phone. Santana’s
+video does not clearly show the period during which Scott and Defendant were allegedly
+on the ground. But the video does show that Scott stood up and was running away—not
+pointing a taser at Defendant or advancing toward Defendant—when Defendant fired at
+him. Additionally, the video shows Defendant picked up the taser approximately ten feet
+behind the point where Defendant was standing when he shot Scott—not between Scott
+and Defendant.
+
+il.
+
+In contrast to Santana’s consistent recollection of the encounter, Defendant provided
+four different accounts as to what happened on the morning of April 4, 2015.
+
+First, Defendant made an on-scene statement to his superior officer, Lieutenant
+Daniel Bowman, who arrived shortly after the shooting occurred. Defendant told Lt.
+
+Bowman that Scott continued to resist arrest after being tasered and falling to the ground.
+Defendant tased Scott twice more while he laid on the ground, but Scott resisted and “was
+able to roll over onto his back.” Supp. J.A. 75. Scott then “use[d] both hands to grab the
+taser” and after “a short struggle,” Scott “was able to wrestle it away.” Jd. Scott then
+“stood up and pointed the taser at” Defendant. /d. Defendant told Lt. Bowman that, when
+faced with this alleged threat, he “drew his weapon as he was returning to the standing
+position and fired multiple times.” Jd. Several of Defendant’s shots struck Scott, who then
+fell to the ground. According to this account, Defendant then “rendered emergency aid
+until other officers arrived seconds later.” Jd.
+
+Three days after the shooting, on April 7, 2015, Defendant gave a second account
+of the encounter in an unsworn interview with SLED investigators. Before giving this
+statement, Defendant asked his attorney to verify with the SLED investigators whether
+there was “[a]ny video, surveillance video of businesses, security cameras, [or] anything”
+else documenting the shooting. J.A. 702. Defendant also asked whether there were any
+witnesses who viewed the shooting. The SLED investigators did not apprise Defendant of
+Santana or his recorded video.
+
+At the start of the interview, the SLED investigators informed Defendant that the
+interview was part of a criminal investigation and that Defendant could decline to
+participate. Still, Defendant agreed to make a statement. Over the course of the interview,
+Defendant added new details not mentioned in his prior statement to Lt. Bowman and
+physically reenacted key aspects of the encounter. For example, Defendant claimed that
+Scott was “coming straight at him” holding the taser, with his “arm extending straight out.”
+
+J.A. 1640. Defendant told the SLED investigators that he was “shuffle-stepping” to avoid
+the taser as he “pulled his gun.” Jd. According to this account, Scott was “turning to his
+left” when Defendant fired. /d. Then, “Scott ran off, stumbled into the grass, [and] fell to
+the ground.” Jd. Defendant further told the investigators that “Scott must have dropped”
+the taser during this altercation, because he retrieved it “between the place where he had
+been shooting and where Scott landed.” J.A. 1641.
+
+During his state trial, Defendant provided a third description of his encounter with
+Scott. In this retelling, Defendant claimed that, during the alleged ground struggle, he had
+attempted to put Scott’s left hand “behind his back to handcuff him.” J.A. 282. However,
+Scott was in a “pushup position” and was “trying to get up” at the same time. Jd. Defendant
+testified that while this was occurring, he and Scott were “fighting” and “rolling around on
+the ground.” J.A. 285. According to this account, Scott eventually “overpowered”
+Defendant and took his taser. J.A. 286. Defendant testified that at that point, he “instructed
+Mr. Scott to turn right away and go, but he didn’t.” J.A. 288. Instead, Scott continued to
+approach Defendant, so Defendant “pulled [his] firearm” and “fired until the threat was
+stopped.” J.A. 289. Defendant’s testimony made clear that he was neither “provoked” nor
+“angry” during the shooting. J.A. 346-47. Instead, Defendant testified that he was simply
+“doing [his] job” and acting in “self-defense.” Id. at 347.
+
+Defendant provided his fourth description of the shooting over two days of
+testimony at his federal pre-trial hearings. Again, Defendant added new details. For the
+first time, Defendant testified that Scott “punched [him] in the chest” during the ground
+altercation. J.A. 732. And for the first time, Defendant testified that Scott was “on top of
+
+[him] at some point.” J.A. 727. Defendant also testified—again, for the first time—that
+Scott “drive stunned”? him during the altercation. J.A. 728. When asked why he had not
+previously provided these details, Defendant testified that the surrounding events were
+“fuzzy” and there were still “some things [he did not] recall.” J.A. 727. But “some of [his]
+memory [had] come back since” the shooting, he testified. /d. Still, Defendant testified
+that he could not “recall anything [that he had] told SLED Agents” during his prior
+interview. J.A. 860 (emphasis added).
+
+Defendant did not testify during his sentencing hearing, but he did attempt to
+buttress aspects of his final account of the encounter through three expert witnesses. First,
+Defendant offered Eugene Liscio, an expert forensic analyst who reconstructs crime
+scenes. Using Santana’s video, Liscio created a 3D model of the scene of the encounter in
+an effort to determine whether Defendant or Scott was holding the taser prior to the
+shooting. Based upon the final position of the taser, Liscio opined that the video was
+“inconsistent” with Defendant throwing the taser with his right arm. J.A. 1257-58.
+However, Liscio equivocated as to this opinion, acknowledging that there was “no part in
+[the Santana video] where you can actually see the taser being held.” J.A. 1275. Liscio
+also testified that, due to this limitation, the court would have to “make [its] own judgment
+
+call” as to what in fact occurred. J.A. 1279-80.
+
+? “Tasers generally have two modes. In dart mode, a taser shoots probes into a
+subject and overrides the central nervous system. Drive stun mode, on the other hand, does
+not cause an override of the victim’s central nervous system; that mode is used as a pain
+compliance tool with limited threat reduction.” Estate of Armstrong ex rel. Armstrong v.
+Vill. of Pinehurst, 810 F.3d 892, 897 n.3 (4th Cir.), cert. denied sub nom. Vill. of Pinehurst,
+N.C. v. Estate of Armstrong, 137 S. Ct. 61, 196 L. Ed. 2d 32 (2016) (internal quotations
+marks and citations omitted).
+Second, Defendant offered David Hallimore, a forensic audio analyst, who applied
+“filtration[s] to [the Santana Video] to allow the speech to become more clear.” J.A. 1192,
+1216. Through these filtrations and “critical listening”—a skill Hallimore purportedly
+learned by “train[ing his] brain effectively to better understand certain tones”—Hallimore
+testified that he heard “fuck police” and “Let go of the taser or I'll shoot” on the Santana
+video. J.A. 1204, 1216, 1218. But Hallimore also recognized this was his “interpretation”
+of the enhanced audio. J.A. 1220.
+
+Finally, Defendant introduced opinions and analyses rendered by Megan Fletcher,
+an agent with the SLED’s Trace Evidence Unit. Fletcher did not testify at the federal
+sentencing, but Defendant did reference her state trial testimony and report. Fletcher
+identified polyester fibers in Defendant’s shirt that had been melted. Fletcher analyzed
+these fibers and opined that a “taser drive-stun cannot be excluded as a possible heat source
+which has the potential to melt polyester fibers.” Supp. J.A. 89-90. But Fletcher averred
+that she was “unable to definitively conclude whether a Taser did or did not cause the marks
+on the uniform.” Supp. J.A. 89. Fletcher also acknowledged that she never determined—
+and therefore did not know—the melting point of the fibers in Defendant’s shirt.
+
+G.
+
+On January 16, 2018, the district court sentenced Defendant to a 240-month term of
+imprisonment. In an accompanying order explaining its sentencing decision, the court first
+determined that second-degree murder was the appropriate sentencing cross-reference for
+Defendant’s offense because “malice aforethought is proven by a gross deviation from the
+
+standard of reasonable care, and [because] there is insufficient evidence that the defendant
+acted in heat of passion.” Slager, 2018 WL 445497, at *2. To support that judgment, the
+district court made extensive credibility determinations and factual findings.
+
+To begin, the court assessed the credibility of the only two testifying eyewitnesses
+to Scott’s shooting: Santana and Defendant. Recounting at length Defendant’s various
+accounts of the encounter, the district court discredited Defendant’s testimony,
+
+29 66
+
+characterizing it as “contradictory,” “self-serving, evolving, and internally inconsistent.”
+Id. at *4-6. Furthermore, the court found that Defendant’s experts did not bolster the
+credibility of his account because each expert admitted that his or her respective technique
+provided no definitive answer as to the key aspects of Defendant’s final version of the
+encounter. In contrast, Santana presented a “consistent story,” which the court found
+credible. Id. at *4 (“[A] review of the statement Santana gave to SLED, Santana’s state
+court testimony, and his federal court testimony reveals a consistent story that is at odds
+with [Defendant’s] presentation of the sequence of events . . . making Santana a more
+credible witness.”).
+
+Based upon these credibility determinations, the district court made the following
+findings of fact. First, the court found that the Santana video did not provide any grounds
+to support a finding of provocation. Second, the court found that the portion of the
+encounter not covered by the video—when Defendant and Scott were on the ground—also
+did not support a finding of provocation. In particular, the court found that Scott “yelled
+‘Fuck the police,’ [and] that Scott ran away from [Defendant] during the initial traffic stop
+and disobeyed commands to stop.” /d. at *8. But the court further found that—contrary
+
+to Defendant’s statements—Scott was “never on top of [Defendant].” Jd. The court found
+
+10
+that Scott did not wrestle the taser away and attempt to drive-stun Defendant because Scott
+“never had the taser in his hands.” Jd. Rather than coming straight at Defendant with a
+taser, Scott got “up from the ground [and] ran away from [Defendant],” the court found.
+Id. Instead “of giving chase once again, [Defendant] shot at Scott eight times” and “five
+of those shots hit Scott in the back.” Jd. Moreover, at “no point after [Defendant] fired the
+first shot—when Scott was nearly fifteen feet away—to when [Defendant] fired the eighth
+shot—when Scott was nearly forty feet away—did Scott turn around.” Jd. Emphasizing
+that “[w]ords alone will not suffice for a ‘heat of passion’ finding,” the court concluded
+that these facts, “taken together,” “did not constitute adequate provocation to apply the
+‘heat of passion’ mitigation.” Id.
+
+In determining Defendant’s sentence, the district court also applied a two-level
+sentencing enhancement for obstruction of justice based upon Defendant’s false statements
+to the SLED investigators during his unsworn interview. U.S.S.G. § 3C1.1. In so doing,
+the court recognized that Defendant was “represented by an attorney” and “was aware that
+there was an investigation . . . underway for the shooting.” Jd. at *14. The court also
+emphasized that, before making the statement, Defendant specifically inquired “about the
+presence of a video that captured the shooting.” Jd. at *17. Believing that no video existed,
+Defendant “used the SLED interview to advance his false narrative of being forced to fire
+when Scott was coming toward him with a taser,” the court explained. Jd.
+
+In deciding to apply the obstruction enhancement, the district court acknowledged
+that SLED had already obtained Santana’s video when they interviewed Defendant. Still,
+
+without the video, some of Defendant’s false statements would have significantly
+
+11
+obstructed the investigation, the court determined. Specifically, if it were “not for the
+Santana’s video,” Defendant’s statement that “Scott was coming toward him with a taser
+at the time he fired his first shot” “would certainly have hindered the investigation.” Jd.
+
+“6
+
+This was especially true because Defendant’s “status as a [law enforcement] officer would
+likely have meant that his rendition of the events would not have been immediately
+questioned.” Id.
+
+Defendant timely appealed his sentence.
+
+IL.
+A.
+
+When, as here, a defendant is sentenced for deprivation of civil rights under color
+of law, the Sentencing Guidelines require the court to cross-reference the “offense
+guideline applicable to any underlying offense.” U.S.S.G. § 2H1.1(a)(1).
+
+Defendant first argues that the district court erred by determining that second-degree
+murder was the proper cross-reference under Section 2H1.1. Specifically, Defendant
+claims that when he shot Scott, he was provoked and thus acting without malice.
+Consequently, Defendant argues that the proper cross-reference was voluntary
+manslaughter, not second-degree murder.
+
+At sentencing, the government “has the burden to prove a cross-referenced offense
+by a preponderance of the evidence[.]” United States v. Davis, 679 F.3d 177, 182 (4th Cir.
+2012). In reviewing “whether a district court properly applied ... its application of a
+cross-reference, we review the district court’s legal conclusions de novo and its factual
+
+findings for clear error.” United States v. Ashford, 718 F.3d 377, 380 (4th Cir. 2013)
+
+12
+(quoting United States v. Layton, 564 F.3d 330, 334 (4th Cir. 2009)) (internal quotation
+marks omitted). For the reasons that follow, we hold that the district court did not clearly
+err in making its factual findings. We further conclude that the court correctly determined,
+based on those findings, that second-degree murder was the proper cross-reference.
+
+i.
+
+“When sentencing courts engage in fact finding, preponderance of the evidence is
+the appropriate standard of proof.” United States v. Span, 789 F.3d 320, 334 (4th Cir.
+2015) (citations and alterations omitted). We “will not reverse a lower court’s findings of
+fact simply because we would have decided the case differently.” Jd. (quoting Easley v.
+Cromartie, 532 U.S. 234, 242 (2001)). Instead, clear error exists only when “the reviewing
+court on the entire evidence is left with the definite and firm conviction that a mistake has
+been committed.” Jd. (quoting Easley, 532 U.S. at 242).
+
+When a district court renders factual findings “based on determinations regarding
+the credibility of witnesses, we give even greater deference to the trial court’s findings.”
+United States v. Hall, 664 F.3d 456, 462 (4th Cir. 2012) (quoting Anderson v. Bessemer
+City, 470 U.S. 564, 575 (1985)) (internal quotation marks omitted); see also Teleguz v.
+Zook, 806 F.3d 803, 812 (4th Cir. 2015) (“[C]redibility determinations are deserving of the
+highest degree of appellate deference.”), cert. denied, 137 S. Ct. 95 (2016). Indeed, if a
+district court’s finding “is based on his decision to credit the testimony of one of two or
+more witnesses, each of whom has told a coherent and facially plausible story that is not
+contradicted by extrinsic evidence, that finding, if not internally inconsistent, can virtually
+
+never be clear error.” Anderson, 470 U.S. at 575 (1985).
+
+13
+Because Santana’s video does not capture the entirety of the disputed period, the
+court based many of its factual findings on its assessment of the credibility of the two
+testifying eyewitnesses to the encounter: Defendant and Santana. Examining at length each
+of Defendant’s four accounts of the encounter, the court discredited Defendant’s testimony
+
+99 66,
+
+as “contradictory,” “self-serving, evolving, and internally inconsistent.” S/ager, 2018 WL
+445497, at *4-6. The record amply supports that credibility determination.
+
+Each time Defendant provided a new statement about the shooting, he put forward
+new details materially bearing on his application of force. For example, in contrast to his
+testimony in these proceedings, Defendant never told Lt. Bowman or the SLED
+investigators that Scott was “on top of [him] at some point” during the disputed period.
+J.A. 727-28. Also, in contrast to his testimony in these proceedings, Defendant did not tell
+Lt. Bowman or the SLED investigators that he was “drive stunned” by Scott. Jd. And in
+contrast to his testimony in these proceedings, Defendant did not tell either Lt. Bowman or
+the SLED investigators that Scott “punched [him] in the chest.” J.A. 732. When Defendant
+was asked why he previously failed to provide these details, he testified that his memory
+was “fuzzy” and he still didn’t “recall” “some things.” Jd. Defendant’s “evolving” account
+of the encounter provided the district court with ample factual basis to discredit
+Defendant’s testimony. See Munyakazi v. Lynch, 829 F.3d 291, 298 (4th Cir. 2016)
+(“Omissions, inconsistent statements, contradictory evidence, and inherently improbable
+testimony are appropriate bases for making an adverse credibility determination.” (internal
+
+quotation marks and alterations omitted)).
+
+14
+That some of Defendant’s assertions are flatly contradicted by Santana’s video and
+by Defendant’s own plea agreement further supports the district court’s finding that
+Defendant’s account was not credible. /d. Santana’s video, for example, shows that when
+Defendant fired eight shots from his firearm, Scott was “running away, not pointing a Taser
+at [Defendant] or advancing toward him,” contrary to Defendant’s statement to Lt.
+Bowman and the SLED investigators. Slager, 2018 WL 445497, at *6. And the video
+reveals that Defendant picked up his taser approximately ten feet behind where Defendant
+stood when he shot Scott—not between Scott and Defendant, as Defendant initially
+asserted. These contradictions further demonstrate that the district court did not clearly err
+in discerning Defendant’s testimony. See United States v. Savage, 885 F.3d 212, 220 (4th
+Cir. 2018) (holding that it is for the factfinder to hear a witness’s “testimony, along with
+any alleged inconsistencies, and decide[] [whether] testimony [is] credible”).
+
+Santana, on the other hand, provided a consistent story, including as to the facts the
+district court found significant in its sentencing opinion. Each time he was questioned,
+Santana testified that Scott never was on top of Defendant, always was facing down, never
+gained control of Defendant’s taser, and never charged at or tried to fight with Defendant.
+And each time he was questioned, Santana testified that once Scott was able to stand up,
+he began to flee—that Scott never tried to stay and fight Defendant, much less charge at
+him, as Defendant claimed.
+
+Additionally, unlike several of Defendant’s retellings of the encounter, Santana’s
+version of events is—and always has been—consistent with the recorded video. On these
+
+facts, the district court did not clearly err in crediting Santana’s consistent testimony. See
+
+15
+United States v. Stark, 8 F.3d 822 (4th Cir. 1993) (unpublished opinion) (District court did
+not clearly err in finding one witness’s “consistent testimony, substantiated in part by
+[documentary evidence], was more credible than [another witness’s] testimony, which the
+court found inconsistent and incredible in many respects.”).?
+
+Defendant nevertheless claims that the district court reversibly erred in declining to
+find that the testimony of Defendant’s expert witnesses rendered Defendant’s account of
+the encounter credible. “As with lay witnesses, evaluating the credibility of experts and
+the value of their opinions is also a function best committed to the district courts, and one
+to which appellate courts should defer[.]” Hall, 664 F.3d at 462 (citations and alterations
+omitted).
+
+Here, the court did not reversibly err by declining to give weight to the testimony
+and evidence presented by Defendant’s experts. The district court emphasized—as the
+record demonstrates—that each expert admitted their respective techniques could not
+provide the court with definitive conclusions as to what happened during the disputed
+period. Instead, the experts couched their opinions with statements of equivocation and
+invited the court to make its own judgment as to what, in fact, occurred during the disputed
+period. See, e.g., Supp. J.A. 89-90 (Fletcher opining that a taser “drive-stun cannot be
+
+excluded as a possible heat source which has the potential to melt polyester fibers”); J.A.
+
+3 Defendant complains that the district court failed to point out in its sentencing
+order that Santana viewed the shooting “from a distance of 136-180 feet.” Appellant’s Br.
+at 16. Although we “do not dispute that there must be sufficient explanation for a sentence
+to be procedurally reasonable,” the court’s “thorough explanation” here was more than
+sufficient to meet this burden. United States v. Helton, 782 F.3d 148, 154 (4th Cir. 2015).
+
+16
+1279-80 (Liscio testifying that the district court could not rely on his recreation of the
+scene, but instead “ha[d] to make your own judgment call,” to determine whether Scott
+ever held the taser); J.A. 1220 (Hallimore offering the court an “interpretation” of the
+enhanced audio). The district court thus did not reversibly err in choosing not to give
+weight to these equivocal opinions.*
+
+In sum, the district court did not clearly err by crediting Santana’s version of the
+encounter—including that Scott was “never on top of [Defendant],” that Scott never had
+the taser in his hands, that Scott immediately began to run away when he stood up, and that
+he was running away when Defendant shot him, Slager, 2018 WL 445497, at *8—as
+opposed to Defendant’s (most recent) account. Notably, several of these key factual
+determinations are consistent with the facts Defendant admitted to in his plea agreement.
+See, e.g., id. at *2 (Defendant “fired multiple shots at Scott while Scott was running away
+
+from him.”); id. (“[D]efendant’s Taser dropped to the ground behind [D]efendant.”).
+
+4 Defendant also relies upon the Federal Rules of Evidence and Daubert v. Merrell
+Dow Pharmaceuticals, Inc., 509 U.S. 579 (1993), to argue that the court erred by failing to
+give weight to Fletcher’s opinions. But the Rules of Evidence do not apply to sentencing.
+Fed. R. Evid. 1101(d)(3). And this Court has not applied Daubert to sentencing hearings.
+United States v. Barnette, 211 F.3d 803, 815 (4th Cir. 2000); see also United States v.
+Fields, 483 F.3d 313, 342 (Sth Cir. 2007) (“No Circuit that we are aware of has applied
+Daubert to sentencing. . . . Since Daubert’s holding was based on the Federal Rules of
+Evidence, it is not directly applicable.”). Applying Daubert would run contrary to the
+sentencing court’s “wide discretion” to determine the “sources and types of evidence,”
+which are relevant for defendants’ individualized sentencing. Pepper v. United States, 562
+U.S. 476, 488 (2011). We thus reject Defendant’s Daubert argument.
+
+17
+il.
+
+Defendant next contends that the district court’s factual findings do not support a
+finding of malice aforethought. Consequently, Defendant maintains that the court erred by
+determining the proper cross-reference was voluntary manslaughter, not second-degree
+murder. Again, we disagree.
+
+Murder is “the unlawful killing of a human being with malice aforethought,” 18
+U.S.C. § 1111, whereas voluntary “manslaughter is the unlawful killing of a human being
+without malice . . . [uJpon a sudden quarrel or heat of passion,” 18 U.S.C. § 1112(a). In
+other words, malice aforethought “is the distinguishing characteristic which, when present,
+makes a homicide murder rather than manslaughter.” United States v. Fleming, 739 F.2d
+945, 947 (4th Cir. 1984).
+
+“Malice aforethought may be established by evidence of conduct which is reckless
+and wanton and a gross deviation from a reasonable standard of care, of such a nature that
+a [factfinder] is warranted in inferring that [the] defendant was aware of a serious risk of
+death or serious bodily harm.” Ashford, 718 F.3d at 384 (citations and alterations omitted).
+Malice does not “require proof of an intent to kill or injure.” Fleming, 739 F.2d at 947
+(citations omitted). Malice exists when the evidence demonstrates that the defendant acted
+“with a heart that was without regard for the life and safety of others.” Jd. at 948 (citations
+omitted). A district court may infer malice when a defendant uses a weapon “in such a
+manner as may be expected naturally and probably to cause death.” United States v.
+Celestine, 510 F.2d 457, 459 (9th Cir. 1975); accord United States v. Wright, 594 F.3d 259,
+
+268 (4th Cir. 2010) (finding malice when Defendant “engaged in a ‘reckless firing of the
+
+18
+999
+
+firearm, a random firing with the intent to hurt someone’” (emphasis in original)); Ashford,
+718 F.3d at 384 (finding malice when Defendant “drew his firearm and pursued the fleeing”
+victim).
+
+As Defendant sought to do here, a defendant may negate a finding of malice by
+demonstrating that an intentional killing occurred “upon a sudden quarrel or heat of
+passion.” 18 U.S.C. § 1112(a); United States v. Velazquez, 246 F.3d 204, 212 (2d Cir.
+2001); United States v. Browner, 889 F.2d 549, 552 (5th Cir. 1989); United States v.
+Roston, 986 F.2d 1287, 1291 (9th Cir. 1993); United States v. Scafe, 822 F.2d 928, 932
+(10th Cir. 1987). Federal courts apply the common-law meaning of “sudden quarrel or
+heat of passion.” See, e.g., United States v. Martinez, 988 F.2d 685, 694 (7th Cir. 1993).
+Under the common law, a defendant’s “heat of passion” must arise from “adequate
+provocation.” See id.; Roston, 986 F.2d at 1291; United States v. Collins, 690 F.2d 431,
+437 (Sth Cir. 1982); United States v. Medina, 755 F.2d 1269, 1272 (7th Cir. 1985); United
+States v. Paul, 37 F.3d 496, 498 (9th Cir. 1994). Provocation is adequate when it “would
+arouse a reasonable and ordinary person to kill someone.” United States v. Wagner, 834
+F.2d 1474, 1487 (9th Cir. 1987); see Velazquez, 246 F.3d at 213. When a law enforcement
+officer, like Defendant, seeks to rely on a sudden quarrel or heat of passion defense, a court
+must assess the adequacy of the provocation “by the standards of a reasonable officer.”
+See Velazquez, 246 F.3d at 213 (citing United States v. Cobb, 905 F.2d 784, 789 (4th Cir.
+1999)).
+
+“[M]ere words” generally provide inadequate provocation to negate a finding of
+
+malice. See Allen v. United States, 164 U.S. 492, 497 (1896); Velazquez, 246 F.3d at 213;
+
+19
+United States v. McRae, 593 F.2d 700, 705 (Sth Cir. 1979); see also 3 Wayne R. LaFave
+& Austin W. Scott, Jr., Substantive Criminal Law § 15.2(b)(6) (3d ed. 2018) (detailing
+extraordinary, but inapposite exceptions); Cobb, 905 F.2d at 789 (“mere words” cannot
+“Justify the use of physical force by a police officer’). By contrast, “[m]utual combat” can
+constitute adequate provocation under some circumstances. See Martinez, 988 F.2d at 696;
+United States v. Hardin, 443 F.2d 735, 738-39 (D.C. Cir. 1970); 3 LaFave at § 15.2(b)(2).
+But when a victim is fleeing from combat and the defendant is neither angry nor in danger,
+mutual combat does not support a finding that a defendant acted in a heat of passion. See
+Ashford, 718 F.3d at 380 (“[T]he ‘heat of passion’ mitigator plainly does not apply to an
+aggressor who is ‘not angry,’ and has multiple opportunities to walk away from a dispute
+that he incited.”).
+
+In this case, the district court did not reversibly err in determining that the facts
+supported a finding of malice. In his plea agreement, Defendant admitted that he acted
+“voluntarily and intentionally with specific intent to do something the law forbids.” Slager,
+2018 WL 445497, at *2. Additionally, Defendant admitted that he “fired eight shots at
+Scott, and each of those eight shots were fired while Scott was unarmed and running away.”
+Id. Defendant’s voluntary, intentional, and repeated discharge of his firearm at Scott as he
+attempted to run away “may be expected naturally and probably to cause death.” Celestine,
+510 F.2d at 459; Cf Wright, 594 F.3d at 268 (It is “perfectly foreseeable that someone
+w[ill] be killed” when firing a gun “with intent to hurt someone.”).
+
+Nor did the district court err in determining that Defendant’s malice was not negated
+
+by “sudden quarrel or heat of passion.” 18 U.S.C. § 1112(a). Even though Scott yelled
+
+20
+“Fuck the police” prior to the shooting, the court rightly found that these words were
+insufficient to provoke a reasonable officer—or any reasonable person—to kill. Slager,
+2018 WL 445497, at *8; see Velazquez, 246 F.3d at 207 (holding that prisoner yelling
+“Fuck you, you are not going to tell me what to do” was insufficient to provoke guards to
+kill in the “heat of passion”).
+
+Additionally, Defendant’s alleged mutual combat with Scott did not provide
+Defendant with adequate provocation because Scott was running away when Defendant
+shot him. See Ashford, 718 F.3d at 380. Perhaps most importantly, even though Defendant
+now claims he was provoked, Defendant testified at his state proceedings that he was
+neither “provoked” nor “angry” during his altercation but was merely acting in “self-
+defense.” J.A. 346-47.° Defendant cannot negate his malice through “sudden quarrel or
+heat of passion” when he previously testified he was neither “provoked” nor “angry.”
+Ashford, 718 F.3d at 380.
+
+In conclusion, the district court did not reversibly err by inferring Defendant’s
+malice from the facts it found credible. Moreover, the court did not reversibly err by
+determining that Defendant’s malice was not negated by “sudden quarrel or heat of
+
+passion.” Accordingly, the court properly cross-referenced second-degree murder.
+
+> Because Defendant admitted in his plea agreement that he acted “willfully,” the
+district court found that Defendant was foreclosed from arguing self-defense during his
+federal sentencing hearing. Slager, 2018 WL 445497, at *2.
+
+21
+B.
+
+Next, Defendant argues that the district court erred in applying a two-level sentence
+enhancement for obstructing justice based on Defendant’s false statements to SLED.
+Defendant raises this issue for the first time on appeal. “Because this issue was not
+advanced in the district court, we review the district court decision for plain error.” United
+States v. Hughes, 401 F.3d 540, 547 (4th Cir. 2005); see United States v. Brack, 651 F.3d
+388, 392 (4th Cir. 2011). For an error to be “plain,” it must be “obvious or clear under
+current law.” Brack, 651 F.3d at 392. Under this circumscribed standard of review, we do
+not find that the district court plainly erred by applying the obstruction sentencing
+enhancement.
+
+A sentencing court may apply the obstruction enhancement when a defendant: (1)
+“willfully obstructed or impeded, or attempted to obstruct or impede, the administration of
+Justice with respect to the investigation . . . of the instant offense of conviction,” and (2)
+“the obstructive conduct related to the defendant’s offense of conviction and any relevant
+conduct.” U.S.S.G. § 3C1.1 (emphasis added). Defendant argues that the district court
+plainly erred in applying this enhancement because Defendant’s false statements to the
+SLED investigators “were not made under oath” and the SLED investigators already had
+Santana’s video when they interviewed Defendant, meaning that Defendant’s false
+statements “did not significantly impede the official investigation.” Appellant’s Br. at 45.
+
+In support of his argument, Defendant emphasizes that the comments to the
+obstruction guideline state “/o/rdinarily .. . making false statements, not under oath to law
+
+enforcement officers’—as was the case here—does not warrant application of the
+
+22
+enhancement. U.S.S.G. § 3C1.1 cmt. n.5 (emphases added). But the comments further
+state that “providing a materially false statement to a law enforcement officer that
+significantly obstructed or impeded the official investigation” does warrant application of
+the enhancement, regardless of whether the materially false statement was made under
+oath. /d. cmt. n.4(G) (emphasis added). And the express text of the obstruction guideline
+covers “attempted” obstruction of justice, indicating that application of the guideline is
+appropriate, at least in some circumstances, even when a defendant’s attempted obstruction
+did not in fact result in the obstruction of an investigation. Jd.
+
+Accordingly, Section 3C1.1 and its comments do not clearly answer the relevant
+question: whether an attempt to significantly obstruct an investigation through unsworn
+statements warrants application of the enhancement. Nor has this Court’s case law
+provided an “obvious” or “clear” answer to that question. Hughes, 401 F.3d at 547.
+Notably, as to that question, our sister circuits have reached divergent answers. Compare
+United States v. Girod, 646 F.3d 304, 318 (Sth Cir. 2011) (enhancement can be appropriate
+based upon attempted, but significant obstruction); United States v. Wolverine, 584 F.
+App’x 646, 649 (9th Cir. 2014) (same); with United States v. Adejumo, 772 F.3d 513, 529
+(8th Cir. 2014) (enhancement is inappropriate based upon attempted, but significant
+obstruction); United States v. Griffin, 310 F.3d 1017, 1022—23 (7th Cir. 2002) (same). In
+such circumstances, Defendant cannot meet his burden to show that the district court
+
+plainly erred by applying a two-level sentencing enhancement for attempted, yet
+
+23
+significant, obstruction of justice through unsworn statements to law enforcement
+investigators. °
+Il.
+
+In sum, the district court committed no reversible error in sentencing Defendant.
+First, the district court did not clearly err in crediting Santana’s description of the encounter
+and discrediting Defendant’s description. Second, the court properly inferred, from these
+facts, malice as required for a second-degree murder cross-reference. Finally, the district
+court did not plainly err in applying an obstruction of justice enhancement. Accordingly,
+the district court’s sentence is
+
+AFFIRMED.
+
+® Defendant also objects to his federal prosecution on double jeopardy grounds.
+Acknowledging that current Supreme Court case law forecloses this argument, Defendant
+preserves it pending a possible change in the law.
+
+24
